@@ -1,1 +1,1 @@
-# estudosP-ginaTeste-rethink
+# Site de aplicação de conhecimentos.
