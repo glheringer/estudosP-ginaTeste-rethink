@@ -1,0 +1,56 @@
+
+
+#bodyHeader {
+  padding-top: 30px;
+}
+#pHeader{
+font-size: small;
+}
+#sideBar{
+  background-color: tomato;
+
+}
+#downloadBtn{
+  margin-left: 5px;
+}
+
+.numerosDestaque{
+  color:tomato;
+  font-size: xx-large;
+  font-weight: bolder;
+}
+.btnConfig{
+  color: white;
+  background-color: tomato;
+
+ 
+}
+.pSideBar{
+  font-size: 11px;
+  color: rgb(189, 186, 186);
+ 
+}
+.socialIcons{
+  margin-left: 5px;
+}
+h1 {  
+  color:tomato;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif
+}
+
+p{
+  font-size: 11px;
+}
+span{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 11px;
+  color:rgb(189, 186, 186);
+}
+input{
+  background-image: url(),none;
+}
